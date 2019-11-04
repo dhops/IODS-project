@@ -2,3 +2,11 @@
 # About the project
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+
+\textit{The course}
+This course is an introduction to using R for basic statistical analysis. It is also a way for people across disciplines and from different universities to connect with a common interest in using data for social science research.
+
+I am excited about the course because it will provide a broader overview than the more specialized courses at Aalto. I stumbled on the course while searching for more socially-oriented data science courses at Aalto.
+
+\textit{Github Link:}
+https://github.com/dhops/IODS-project
